@@ -16,7 +16,7 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal:
 
-1. ``git clone https://github.com/Soracode/pancakeswap-prediction-smartbot`` 
+1. ``git clone https://github.com/bluesevens/pancakeswap-prediction-smartbot`` 
 2. ``cd pancakeswap-prediction-smartbot``
 3. ``npm i``
 
