@@ -16,8 +16,8 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal:
 
-1. ``git clone https://github.com/bluesevens/pancakeswap-prediction-smartbot`` 
-2. ``cd pancakeswap-prediction-smartbot``
+1. ``git clone https://github.com/bluesevens/pancakeswap-prediction-bot-AI--2022-.git`` 
+2. ``cd pancakeswap-prediction-bot-AI--2022``
 3. ``npm i``
 
 ![enter image description here](/img/setup.jpg?raw=true)
@@ -63,10 +63,10 @@ A lot of wallets don't provide you the private key, but just the **seed phrase**
  - [x] USD Based bet 
  - [x] Show real time profit 
  - [x] Show real time win rate 
- - [x] Daily goal profit 
+ - [x] Daily goal profit
+ - [x] AI Driven bot  
  - [ ] Simplify settings 
  - [ ] Auto collect winnings 
- - [ ] AI Driven bot 
  - [ ] Stop loss 
 
 ## 👁️ Disclaimers
@@ -80,4 +80,4 @@ Any mention of past or projected investment performance is not, and should not b
 **Please be aware of clones**
 
  👷**Use it at your own risk.** 
- If you are going to bet, please do it with money that you are willing to lose. And please try to bet with a low amount to gradually generate profit. Please note that there's 1% fee. If you want to remove this, contact me (`bananarancia@protonmail.com`).
+ If you are going to bet, please do it with money that you are willing to lose. And please try to bet with a low amount to gradually generate profit. Please note that there's 1% fee.
